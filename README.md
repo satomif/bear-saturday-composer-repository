@@ -2,6 +2,6 @@
 
 ## create composer repository
 ```
-/bin/satis build satis.json public/
+./bin/satis build satis.json public/
 ```
 
