@@ -1,6 +1,6 @@
 {
     "name": "bear saturday greater than php5.4",
-    "homepage": "http://localhost:8001",
+    "homepage": "https://satomif.github.io/bear-saturday-composer-repository",
     "repositories": [
         {
             "type": "pear",
@@ -52,7 +52,7 @@
     "archive": {
         "directory": "dist",
         "format": "zip",
-        "prefix-url": "http://localhost:8001",
+        "prefix-url": "https://satomif.github.io/bear-saturday-composer-repository",
         "skip-dev": false
     },
     "require-dependencies": true
